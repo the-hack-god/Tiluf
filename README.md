@@ -40,6 +40,8 @@ Users can create their own mixed reality or either choose from a wide variety of
 You can see an example of using action of tiluf avatar at: https://youtu.be/M1p6YqvzrPs
 
 
+Since github has a limit for file size so I am sharing our code via Google Drive. See code [**HERE.**](https://drive.google.com/drive/folders/1t-Gv4Ad0Yp9e9rTSWseCTJW0umCB-nFr?usp=sharing)
+
 To learn more about Tiluf visit: https://www.tiluf.com/
 
 Our Youtube channel: https://youtube.com/channel/UChzL2zf3D6GIBoClKA2ujVw
